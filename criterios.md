@@ -32,9 +32,27 @@ Se tendrán en cuenta los siguientes aspectos:
 - Se valorará positivamente la claridad, estructuración, eficiencia y comentarios del código, así como el uso del inglés en la documentación y/o exposición final.
 
 ### Módulos
-#### Primero
-- [Acceso a datos / Horas de libre configuración](/criterios/acdat_hlc/criterios.md)
-- [Desarrollo de interfaces](/criterios/deint/criterios.md)
-- [Programación multimedia y dispositivos móviles](/criterios/pmdmo/criterios.md)
-- [Programación de sistemas y procesos](/criterios/pspro/criterios.md)
-- [Sistemas de gestión empresarial](/criterios/sgemp/criterios.md)
+### **Módulos de 1º**
+
+| Módulo | Resultados de aprendizaje / Criterios |
+|--------|----------------------------------------|
+| **Digitalización aplicada a los sectores productivos** | Evalúa la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema, como globales. |
+| **Fundamentos de hardware** | - Configura equipos microinformáticos, componentes y periféricos, analizando sus características y relación con el conjunto.<br>- Instala software de propósito general evaluando sus características y entornos de aplicación. |
+| **Gestión de bases de datos** | - Realizar diagrama E/R.<br>- Pasar el diagrama E/R a modelo relacional.<br>- Almacenamiento de datos en una base de datos, con al menos:<br> • Tres colecciones o tablas.<br> • Una relación de uno a muchos.<br> • Una relación de muchos a muchos. |
+| **Implantación de sistemas operativos** | Instala sistemas operativos, analizando sus características e interpretando la documentación técnica. |
+| **Lenguajes de marcas y sistemas de gestión de información** | Diseñar aplicaciones web del lado cliente con HTML, CSS y JavaScript. |
+| **Planificación y administración de redes** | Conecta redes privadas a redes públicas identificando y aplicando diferentes tecnologías. |
+| **Sostenibilidad aplicada al sistema productivo** | Establece la aplicación de criterios de sostenibilidad en el desempeño profesional y personal, identificando los elementos necesarios. |
+
+
+### **Módulos de 2º**
+
+| Módulo | Resultados de aprendizaje / Criterios |
+|--------|----------------------------------------|
+| **Administración de sistemas gestores de bases de datos** | - Creación de usuarios con distintos privilegios (administrador, aplicación, lectura, etc.).<br>- Crear y utilizar como mínimo un *Trigger*.<br>- Conexión a base de datos.<br>- Automatización de copias de seguridad de la base de datos de manera periódica. |
+| **Administración de sistemas operativos** | Utiliza lenguajes de guiones (*shell script*) en sistemas operativos. |
+| **Implantación de aplicaciones web** | Diseñar aplicaciones web del lado servidor que conectan a bases de datos. |
+| **Seguridad y alta disponibilidad** | - Adopta pautas y prácticas de tratamiento seguro de la información, reconociendo las vulnerabilidades de un sistema informático y la necesidad de asegurarlo.<br>- Implanta técnicas seguras de acceso remoto a un sistema informático, interpretando y aplicando el plan de seguridad. |
+| **Servicios de red e internet** | Desplegar servicios en contenedores Docker con Kubernetes o virtualizar máquinas con Proxmox. |
+| **Horas de libre configuración** | Desarrollar aplicaciones multihilos. |
+
