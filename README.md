@@ -4,7 +4,7 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 ## Índice
 
-* [Requisitos y criterios](/criterios/generales.md)
+* [Requisitos y criterios](/criterios.md)
 * [Presentaciones](#presentaciones)
 * [Relación de proyectos](#relación-de-proyectos)
 * [Calendario período ordinario](#calendario-período-ordinario)
