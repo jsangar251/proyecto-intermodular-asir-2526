@@ -1,6 +1,6 @@
 # Normativa del proyecto
 
-Se deberá desarrollar un producto deonde se demuestren todos los conocimientos adquiridos a lo largo del Ciclo Formativo. 
+Se deberá desarrollar un producto donde se demuestren todos los conocimientos adquiridos a lo largo del Ciclo Formativo. 
 
 ## Requisitos
 
