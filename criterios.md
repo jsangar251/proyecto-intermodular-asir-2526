@@ -44,7 +44,6 @@ Se tendrán en cuenta los siguientes aspectos:
 | **Planificación y administración de redes** | Conecta redes privadas a redes públicas identificando y aplicando diferentes tecnologías. |
 | **Sostenibilidad aplicada al sistema productivo** | Establece la aplicación de criterios de sostenibilidad en el desempeño profesional y personal, identificando los elementos necesarios. |
 
-
 ### Segundo
 
 | Módulo | Criterios |
@@ -55,4 +54,13 @@ Se tendrán en cuenta los siguientes aspectos:
 | **Seguridad y alta disponibilidad** | - Adopta pautas y prácticas de tratamiento seguro de la información, reconociendo las vulnerabilidades de un sistema informático y la necesidad de asegurarlo.<br>- Implanta técnicas seguras de acceso remoto a un sistema informático, interpretando y aplicando el plan de seguridad. |
 | **Servicios de red e internet** | Desplegar servicios en contenedores Docker con Kubernetes o virtualizar máquinas con Proxmox. |
 | **Programación (Optativa)** | Desarrollar aplicaciones multihilos. |
+
+
+# Anteproyecto
+
+El proyecto se iniciará con la entrega de un anteproyecto que cada grupo deberá presentar obligatoriamente antes del día indicado por el equipo docente. En él se especificará, en términos generales, el nombre de los autores del proyecto, el título, los objetivos, temática, tecnologías utilizadas, etc., teniendo en cuenta los puntos 2, 3, 4, 5, 6 y 7 indicados en el punto anterior.
+
+Se debe añadir un enlace público al anteproyecto en el README.MD del repositorio de GitHub.
+
+El profesorado valorará la adecuación de la propuesta dando el visto bueno o solicitando al alumnado correcciones y/o mejoras que deberán entregarse en el plazo indicado. El proyecto no deberá comenzarse hasta obtener el visto bueno del equipo docente al anteproyecto presentado.
 
