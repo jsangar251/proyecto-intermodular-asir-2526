@@ -31,10 +31,10 @@ Se tendrán en cuenta los siguientes aspectos:
 
 - Se valorará positivamente la claridad, estructuración, eficiencia y comentarios del código, así como el uso del inglés en la documentación y/o exposición final.
 
-### Módulos
-### **Módulos de 1º**
+### **Módulos**
+### Primero
 
-| Módulo | Resultados de aprendizaje / Criterios |
+| Módulo | Criterios |
 |--------|----------------------------------------|
 | **Digitalización aplicada a los sectores productivos** | Evalúa la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema, como globales. |
 | **Fundamentos de hardware** | - Configura equipos microinformáticos, componentes y periféricos, analizando sus características y relación con el conjunto.<br>- Instala software de propósito general evaluando sus características y entornos de aplicación. |
@@ -45,9 +45,9 @@ Se tendrán en cuenta los siguientes aspectos:
 | **Sostenibilidad aplicada al sistema productivo** | Establece la aplicación de criterios de sostenibilidad en el desempeño profesional y personal, identificando los elementos necesarios. |
 
 
-### **Módulos de 2º**
+### Segundo
 
-| Módulo | Resultados de aprendizaje / Criterios |
+| Módulo | Criterios |
 |--------|----------------------------------------|
 | **Administración de sistemas gestores de bases de datos** | - Creación de usuarios con distintos privilegios (administrador, aplicación, lectura, etc.).<br>- Crear y utilizar como mínimo un *Trigger*.<br>- Conexión a base de datos.<br>- Automatización de copias de seguridad de la base de datos de manera periódica. |
 | **Administración de sistemas operativos** | Utiliza lenguajes de guiones (*shell script*) en sistemas operativos. |
