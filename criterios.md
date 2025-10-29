@@ -4,7 +4,7 @@ Se deberá desarrollar un producto donde se demuestren todos los conocimientos a
 
 ## Requisitos
 
-Se permite a los estudiantes elegir el tema de su trabajo y las tecnologías a utilizar, siempre y cuando cumpla con los requisitos establecidos para cada uno de los módulos.
+Se permite a los estudiantes elegir el tema de su trabajo y las tecnologías a utilizar, siempre y cuando cumpla con los criterios generales y los establecidos para cada uno de los módulos.
 
 > [!CAUTION]
 > Si se detecta copia de algún compañero y/o agente externo o código generado por inteligencia artificial o software de terceros, la calificación final del proyecto será suspenso.
