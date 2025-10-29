@@ -56,7 +56,7 @@ Se tendrán en cuenta los siguientes aspectos:
 | **Programación (Optativa)** | Desarrollar aplicaciones multihilos. |
 
 
-# Anteproyecto
+## Anteproyecto
 
 El proyecto se iniciará con la entrega de un anteproyecto que cada grupo deberá presentar obligatoriamente antes del día indicado por el equipo docente. En él se especificará, en términos generales, el nombre de los autores del proyecto, el título, los objetivos, temática, tecnologías utilizadas, etc., teniendo en cuenta los puntos 2, 3, 4, 5, 6 y 7 indicados en el punto anterior.
 
