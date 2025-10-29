@@ -54,5 +54,5 @@ Se tendrán en cuenta los siguientes aspectos:
 | **Implantación de aplicaciones web** | Diseñar aplicaciones web del lado servidor que conectan a bases de datos. |
 | **Seguridad y alta disponibilidad** | - Adopta pautas y prácticas de tratamiento seguro de la información, reconociendo las vulnerabilidades de un sistema informático y la necesidad de asegurarlo.<br>- Implanta técnicas seguras de acceso remoto a un sistema informático, interpretando y aplicando el plan de seguridad. |
 | **Servicios de red e internet** | Desplegar servicios en contenedores Docker con Kubernetes o virtualizar máquinas con Proxmox. |
-| **Horas de libre configuración** | Desarrollar aplicaciones multihilos. |
+| **Programación (Optativa)** | Desarrollar aplicaciones multihilos. |
 
