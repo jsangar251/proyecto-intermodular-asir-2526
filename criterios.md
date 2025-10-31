@@ -27,9 +27,7 @@ Se tendrán en cuenta los siguientes aspectos:
 11. Presentación en formato PDF.
 12. Bitácora de tareas realizadas donde se indique la fecha en que se completó cada una de ellas y qué miembro del grupo la llevó a cabo.
 13. Bibliografía utilizada (manuales, enlaces a documentación, tutoriales, etc.).
-14. URL a un vídeo de 5 minutos máximo, donde el alumno exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés. El vídeo puede estar colgado en plataformas como Youtube, Vimeo, Dailymotion, etc.
-
-- Se valorará positivamente la claridad, estructuración, eficiencia y comentarios del código, así como el uso del inglés en la documentación y/o exposición final.
+14. URL a un vídeo de 10 minutos máximo, donde el alumno exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una frase, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés. El vídeo puede estar colgado en plataformas como Youtube, Vimeo, Dailymotion, etc.
 
 ### **Módulos**
 ### Primero
