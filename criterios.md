@@ -93,9 +93,7 @@ Cada grupo tendrá que presentar obligatoriamente
    - Cronograma o fases del trabajo.
 
 10. Bibliografía / referencias iniciales
-   - Fuentes de información que servirán de base para el desarrollo
-
-
+    - Fuentes de información que servirán de base para el desarrollo
 
 El proyecto se iniciará con la entrega de un anteproyecto que cada grupo deberá presentar obligatoriamente antes del día indicado por el equipo docente. En él se especificará, en términos generales,
 
