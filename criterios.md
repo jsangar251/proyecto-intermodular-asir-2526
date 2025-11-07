@@ -82,8 +82,8 @@ Cada grupo tendrá que presentar obligatoriamente
 6. Recursos hardware y software necesarios
 
 7. Listado de requisitos
-   - Requisitos funcionales
-   - Requisitos no funcionales
+   - Requisitos funcionales.
+   - Requisitos no funcionales.
 
 8. Diagrama de la base de datos
     - Esquema E/R o relacional de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
@@ -93,7 +93,7 @@ Cada grupo tendrá que presentar obligatoriamente
    - Cronograma o fases del trabajo.
 
 10. Bibliografía / referencias iniciales
-    - Fuentes de información que servirán de base para el desarrollo
+    - Fuentes de información que servirán de base para el desarrollo.
 
 El proyecto se iniciará con la entrega de un anteproyecto que cada grupo deberá presentar obligatoriamente antes del día indicado por el equipo docente. En él se especificará, en términos generales,
 
