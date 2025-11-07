@@ -13,7 +13,7 @@ Se permite a los estudiantes elegir el tema de su trabajo y las tecnologías a u
 Se tendrán en cuenta los siguientes aspectos:
 - El proyecto se desarrollará **obligatoriamente** en grupos de dos personas como mínimo.
 - Cada grupo tendrá que trabajar conjuntamente en el proyecto y mantener un detallado diario de las tareas realizadas por cada uno.
-- Se creará en un repositorio privado de Github dando permiso al profesorado para que pueda tener acceso en todo momento al desarrollo de los proyectos que deberá contener:
+- Se creará en un repositorio privado de Github dando permiso al profesorado para que pueda tener acceso en todo momento al desarrollo de los proyectos que al deberá contener:
 1. Código fuente de la aplicación actualizado semanalmente.
 2. Título del proyecto.
 3. Nombre de los autores del proyecto.
@@ -55,10 +55,51 @@ Se tendrán en cuenta los siguientes aspectos:
 
 
 ## Anteproyecto
+Cada grupo tendrá que presentar obligatoriamente 
 
-El proyecto se iniciará con la entrega de un anteproyecto que cada grupo deberá presentar obligatoriamente antes del día indicado por el equipo docente. En él se especificará, en términos generales, el nombre de los autores del proyecto, el título, los objetivos, temática, tecnologías utilizadas, etc., teniendo en cuenta los puntos 2, 3, 4, 5, 6 y 7 indicados en el punto anterior.
+1. Portada
+  - Título del proyecto, indicando que es el anteproyecto.
+  - Nombre de los estudiantes
+  - Nombre del Ciclo Formativo
+  - Nombre del centro educativo
+  - Curso académico
+
+2. Índice
+
+3. Resumen
+  - Breve descripción de la idea del proyecto (5 – 10 líneas).
+
+4. Motivación personal y académica
+  - Por qué has elegido ese proyecto.
+  - Qué relación tiene con tu formación en ASIR y con lo aprendido en el ciclo.
+  - Si responde a una necesidad real (por ejemplo, mejorar la seguridad de una red, montar un sistema de copias de seguridad centralizado, automatizar     despliegues, etc.).
+  - Justificación de la elección de las tecnologías a usar (no poner que se usa porque se ha dado en clase).
+
+5. Estado del arte
+  - Explicación de las soluciones, tecnologías o herramientas existentes actualmente que están relacionadas con tu proyecto (ej.: para un TFG de monitorización de redes podrías hablar de Zabbix, Nagios, Prometheus, etc.).
+  - Aquí demuestras que conoces lo que ya existe y justificas que tu proyecto no es redundante o qué valor añadido tiene.
+
+6. Recursos hardware y software necesarios
+
+7. Listado de requisitos
+  - Requisitos funcionales
+  - Requisitos no funcionales
+
+8. Diagrama de la base de datos
+   - Esquema E/R o relacional de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
+
+9. Planificación
+  - Metodología de desarrollo que se va a seguir a cabo.
+  - Cronograma o fases del trabajo.
+
+10. Bibliografía / referencias iniciales
+  - Fuentes de información que servirán de base para el desarrollo
+
+
+
+El proyecto se iniciará con la entrega de un anteproyecto que cada grupo deberá presentar obligatoriamente antes del día indicado por el equipo docente. En él se especificará, en términos generales,
 
 Se debe añadir un enlace público al anteproyecto en el README.MD del repositorio de GitHub.
 
-El profesorado valorará la adecuación de la propuesta dando el visto bueno o solicitando al alumnado correcciones y/o mejoras que deberán entregarse en el plazo indicado. El proyecto no deberá comenzarse hasta obtener el visto bueno del equipo docente al anteproyecto presentado.
+El profesorado valorará la adecuación de la propuesta dando el visto bueno o solicitando al alumnado correcciones y/o mejoras que deberán entregarse en el plazo indicado. El proyecto no deberá comenzar su desarrollo hasta obtener el visto bueno del equipo docente al anteproyecto presentado.
 
