@@ -58,41 +58,44 @@ Se tendrán en cuenta los siguientes aspectos:
 Cada grupo tendrá que presentar obligatoriamente 
 
 1. Portada
-   - Título del proyecto, indicando que es el anteproyecto.
-   - Nombre de los estudiantes
-   - Nombre del Ciclo Formativo
-   - Nombre del centro educativo
-   - Curso académico
+    - Título del proyecto, indicando que es el anteproyecto.
+    - Nombre de los estudiantes
+    - Nombre del Ciclo Formativo
+    - Nombre del centro educativo
+    - Curso académico
 
 2. Índice
 
 3. Resumen
-   - Breve descripción de la idea del proyecto (5 – 10 líneas).
+    - Breve descripción de la idea del proyecto (5 – 10 líneas).
 
 4. Motivación personal y académica
-   - Por qué has elegido ese proyecto.
-   - Qué relación tiene con tu formación en ASIR y con lo aprendido en el ciclo.
-   - Si responde a una necesidad real (por ejemplo, mejorar la seguridad de una red, montar un sistema de copias de seguridad centralizado, automatizar     despliegues, etc.).
-   - Justificación de la elección de las tecnologías a usar (no poner que se usa porque se ha dado en clase).
+    - Por qué has elegido ese proyecto.
+    - Qué relación tiene con tu formación en ASIR y con lo aprendido en el ciclo.
+    - Si responde a una necesidad real (por ejemplo, mejorar la seguridad de una red, montar un sistema de copias de seguridad centralizado, automatizar     despliegues, etc.).
+    - Justificación de la elección de las tecnologías a usar (no poner que se usa porque se ha dado en clase).
 
 5. Estado del arte
-   - Explicación de las soluciones, tecnologías o herramientas existentes actualmente que están relacionadas con tu proyecto (ej.: para un TFG de monitorización de redes podrías hablar de Zabbix, Nagios, Prometheus, etc.).
-   - Aquí demuestras que conoces lo que ya existe y justificas que tu proyecto no es redundante o qué valor añadido tiene.
+    - Explicación de las soluciones, tecnologías o herramientas existentes actualmente que están relacionadas con tu proyecto (ej.: para un TFG de monitorización de redes podrías hablar de Zabbix, Nagios, Prometheus, etc.).
+    - Aquí demuestras que conoces lo que ya existe y justificas que tu proyecto no es redundante o qué valor añadido tiene.
 
 6. Recursos hardware y software necesarios
 
 7. Listado de requisitos
-   - Requisitos funcionales.
-   - Requisitos no funcionales.
+    - Requisitos funcionales.
+    - Requisitos no funcionales.
 
 8. Diagrama de la base de datos
     - Esquema E/R o relacional de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
 
 9. Planificación
-   - Metodología de desarrollo que se va a seguir a cabo.
-   - Cronograma o fases del trabajo.
+    - Metodología de desarrollo que se va a seguir a cabo.
+    - Cronograma o fases del trabajo.
 
-10. Bibliografía / referencias iniciales
+10. Relación con los módulos del ciclo
+    - Explicación de cómo vuestro proyecto va a abordar y cumplir cada uno de los criterios establecidos en los diferentes módulos.
+
+11. Bibliografía / referencias iniciales
     - Fuentes de información que servirán de base para el desarrollo.
 
 El proyecto se iniciará con la entrega de un anteproyecto que cada grupo deberá presentar obligatoriamente antes del día indicado por el equipo docente. En él se especificará, en términos generales,
