@@ -30,3 +30,15 @@ Cada grupo debe editar este fichero y hacer una pull request a este repositorio 
 | Proyecto | Alumnos |
 |-----------------------------------------------------------------------------------| ---------------------------|
 | [Nombre proyecto](https://github.com/nombreUsuario/nombreProyecto)                | Alumno 1 <br/> Alumno 2    |
+
+
+# Calendario período ordinario
+
+## 🗓️ Fechas a tener en cuenta
+* Anteproyecto: `5 de diciembre`
+* Revisión anteproyecto: `12 de enero`
+* Entrega de proyecto: `XX de junio`
+* Exposiciones: `Miércoles 17 de junio a las XX:XX`
+
+## ⏰ Cuadrante horario de las exposiciones
+Se expodrá en orden aleatorio. Dicho orden se publicará al comienzo de las exposiciones.
