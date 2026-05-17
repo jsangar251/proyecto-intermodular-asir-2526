@@ -38,7 +38,7 @@ Cada grupo debe editar este fichero y hacer una pull request a este repositorio 
 * Anteproyecto: `5 de diciembre`
 * Revisión anteproyecto: `12 de enero`
 * Entrega de proyecto: `XX de junio`
-* Exposiciones: `Miércoles 17 de junio a las XX:XX`
+* Exposiciones: `Miércoles 17 de junio a las 08:30`
 
 ## ⏰ Cuadrante horario de las exposiciones
 Se expodrá en orden aleatorio. Dicho orden se publicará al comienzo de las exposiciones.
