@@ -71,7 +71,6 @@ Cada grupo tendrá que presentar obligatoriamente
 
 4. Motivación personal y académica
     - Por qué has elegido ese proyecto.
-    - Qué relación tiene con tu formación en ASIR y con lo aprendido en el ciclo.
     - Si responde a una necesidad real (por ejemplo, mejorar la seguridad de una red, montar un sistema de copias de seguridad centralizado, automatizar     despliegues, etc.).
     - Justificación de la elección de las tecnologías a usar (no poner que se usa porque se ha dado en clase).
 
@@ -109,13 +108,62 @@ El profesorado valorará la adecuación de la propuesta dando el visto bueno o s
 ### Memoria
 Cada grupo tendrá que presentar obligatoriamente 
 
+Fuente calibri o Time New Roman, tamaño de fuente 12 e interlineado simple.
+
 1. Portada
-    - Título del proyecto, indicando que es el anteproyecto.
+    - Título del proyecto, indicando que es la memoria.
     - Nombre de los estudiantes
     - Nombre del Ciclo Formativo
     - Nombre del centro educativo
     - Curso académico
 
+2. Resumen
+    - Breve descripción del proyecto (más o menos medio folio).
+
+3. Abstract
+    - La traducción del resumen en inglés. 
+
+4. Índice
+   
+5. Motivación
+    - Por qué has elegido ese proyecto.
+    - Si responde a una necesidad real (por ejemplo, mejorar la seguridad de una red, montar un sistema de copias de seguridad centralizado, automatizar despliegues, etc.).
+
+6. Estado del arte
+    - Explicación de las soluciones, tecnologías o herramientas existentes actualmente que están relacionadas con tu proyecto (ej.: para un TFG de monitorización de redes podrías hablar de Zabbix, Nagios, Prometheus, etc.).
+    - Aquí demuestras que conoces lo que ya existe y justificas que tu proyecto no es redundante o qué valor añadido tiene.
+
+
+
+
+4. Motivación personal y académica
+    - Por qué has elegido ese proyecto.
+    - Qué relación tiene con tu formación en ASIR y con lo aprendido en el ciclo.
+    - Si responde a una necesidad real (por ejemplo, mejorar la seguridad de una red, montar un sistema de copias de seguridad centralizado, automatizar     despliegues, etc.).
+    - Justificación de la elección de las tecnologías a usar (no poner que se usa porque se ha dado en clase).
+
+
+6. Recursos hardware y software necesarios
+
+7. Listado de requisitos
+    - Requisitos funcionales.
+    - Requisitos no funcionales.
+
+8. Diagrama de la base de datos
+    - Esquema E/R o relacional de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
+
+9. Planificación
+    - Metodología de desarrollo que se va a seguir a cabo.
+    - Cronograma o fases del trabajo.
+
+10. Relación con los módulos del ciclo
+    - Explicación de cómo vuestro proyecto va a abordar y cumplir cada uno de los criterios establecidos en los diferentes módulos.
+
+11. Bibliografía / referencias iniciales
+    - Fuentes de información que servirán de base para el desarrollo.
+
+1X. Manual de usuario
+    - Fuentes de información que servirán de base para el desarrollo.
 
 ### Exposición
 Cada grupo tendrá que presentar obligatoriamente 20 minutos de duración máxima repartidos en:
