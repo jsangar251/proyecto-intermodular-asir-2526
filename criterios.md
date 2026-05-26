@@ -104,3 +104,22 @@ Se debe añadir un enlace público al anteproyecto en el README.MD del repositor
 
 El profesorado valorará la adecuación de la propuesta dando el visto bueno o solicitando al alumnado correcciones y/o mejoras que deberán entregarse en el plazo indicado. El proyecto no deberá comenzar su desarrollo hasta obtener el visto bueno del equipo docente al anteproyecto presentado.
 
+## Entrega final
+
+### Memoria
+Cada grupo tendrá que presentar obligatoriamente 
+
+1. Portada
+    - Título del proyecto, indicando que es el anteproyecto.
+    - Nombre de los estudiantes
+    - Nombre del Ciclo Formativo
+    - Nombre del centro educativo
+    - Curso académico
+
+
+### Exposición
+Cada grupo tendrá que presentar obligatoriamente 20 minutos de duración máxima repartidos en:
+1. Vídeo de duración máxima entre 2 o 3 minutos
+2. Explicar
+3. Demo en directo de la aplicación
+
