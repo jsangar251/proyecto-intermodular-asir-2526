@@ -29,6 +29,7 @@ Cada grupo debe editar este fichero y hacer una pull request a este repositorio 
 
 | Proyecto | Alumnos |
 |-----------------------------------------------------------------------------------| ---------------------------------------------------------|
+| [Didacta](https://github.com/algarro06/Didacta-2-ASIR)                            | Lomnasan, Alejandro Gabriel <br/> Ortigosa García, Iván <br/> García Rojas, Álvaro |
 | [Project Pokémon](https://github.com/Proyect-Pokemon/Project-Pokemon)             | González Jiménez, Jorge <br/> Cabello Rubio, Cristina <br/> Fuentes Triguero, Jesús |
 | [RetroNexus](https://github.com/AdriFerz7a/TFG_RetroNexus)                        | Muñoz Amores, Antonio <br/> Luque Montero, Denis <br/> Fernández Pérez, Adrián <br/> Merchán Damir, Francisco |
 | [SysFly](https://github.com/abelcm214/SysFly)                                     | Camacho Martín, Abel <br/> Casermeiro González, Adrián   |
@@ -41,8 +42,14 @@ Cada grupo debe editar este fichero y hacer una pull request a este repositorio 
 ### 🗓️ Fechas a tener en cuenta
 * Anteproyecto: `5 de diciembre`
 * Revisión anteproyecto: `12 de enero`
-* Entrega de proyecto: `XX de junio`
-* Exposiciones: `Miércoles 17 de junio a las 08:30`
+
+#### 1º Evaluación final
+* Entrega de proyecto: `Sábado 6 de junio a las 23:59`
+* Exposiciones: `Martes 9 de junio a las 08:15`
+
+#### 2º Evaluación final
+* Entrega de proyecto: `Sábado 13 de junio a las 23:59`
+* Exposiciones: `Miércoles 17 de junio a las 08:15`
 
 ### ⏰ Cuadrante horario de las exposiciones
 Se expodrá en orden aleatorio. Dicho orden se publicará al comienzo de las exposiciones.
