@@ -6,7 +6,6 @@ En este repositorio se encuentra centralizada toda la información relativa a lo
 
 * [Requisitos y criterios](/criterios.md)
 * [Profesores](#profesores)
-* [Presentaciones](#presentaciones)
 * [Relación de proyectos](#relación-de-proyectos)
 * [Calendario período ordinario](#calendario-período-ordinario)
 * [Calendario período extraordinario](#calendario-período-extraordinario)
