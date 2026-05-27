@@ -18,16 +18,13 @@ Se tendrán en cuenta los siguientes aspectos:
     2. Título del proyecto.
     3. Nombre de los autores del proyecto.
     4. Descripción.
-    5. Objetivos del proyecto.
-    6. Tecnologías utilizadas.
-    7. Esquema E/R de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
+    5. Tecnologías utilizadas.
+    6. Esquema E/R de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
+    7. Explicación paso a paso de cómo ejecutarlo localmente.
     8. Breve tutorial de uso de la aplicación con capturas de pantalla y/o material multimedia.
     9. URL donde se encuentre desplegada la aplicación.
-    10. URL donde se encuentre el diseño de la aplicación.
-    11. Presentación en formato PDF.
-    12. Bitácora de tareas realizadas donde se indique la fecha en que se completó cada una de ellas y qué miembro del grupo la llevó a cabo.
-    13. Bibliografía utilizada (manuales, enlaces a documentación, tutoriales, etc.).
-    14. URL a un vídeo de 10 minutos máximo, donde el alumno exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una     frase, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés. El vídeo puede estar colgado en plataformas como Youtube, Vimeo, Dailymotion, etc.
+    10. Bibliografía utilizada (manuales, enlaces a documentación, tutoriales, etc.).
+    11. URL a un vídeo de 10 minutos máximo, donde el alumno exponga brevemente su proyecto y muestre su funcionamiento. Es muy importante hacer una introducción diciendo el nombre de la aplicación y de qué trata en una     frase, antes de pasar a los detalles técnicos. Se puede enseñar código, pero solo fragmentos y si realmente son cosas de interés. El vídeo puede estar colgado en plataformas como Youtube, Vimeo, Dailymotion, etc.
 
 ### **Módulos**
 ### Primero
