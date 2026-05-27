@@ -101,11 +101,19 @@ Se debe añadir un enlace público al anteproyecto en el README.MD del repositor
 El profesorado valorará la adecuación de la propuesta dando el visto bueno o solicitando al alumnado correcciones y/o mejoras que deberán entregarse en el plazo indicado. El proyecto no deberá comenzar su desarrollo hasta obtener el visto bueno del equipo docente al anteproyecto presentado.
 
 ## Entrega final
+Para la entrega final, deberá presentarse, a través del medio indicado por el profesorado y dentro del plazo establecido, la siguiente documentación y materiales:
+- Memoria del proyecto.
+- Diario de trabajo de cada miembro del grupo.
+- Enlace al repositorio público.
+- Enlace a la versión desplegada públicamente.
+- Credenciales de administrador de la aplicación, en caso de ser necesarias.
+- Código fuente.
+
+Posteriormente, en la fecha indicada, cada grupo deberá defender su proyecto ante un tribunal compuesto por el profesorado.
 
 ### Memoria
-Cada grupo tendrá que presentar obligatoriamente 
-
-Fuente calibri o Time New Roman, tamaño de fuente 12 e interlineado simple.
+La documentación deberá estar redactada a doble cara, utilizando fuente Times New Roman con tamaño 12 puntos o Calibri con tamaño 11 puntos, y un interlineado de 1,5 puntos.
+Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán provenir del anteproyecto realizado previamente, aunque deberán estar revisados y actualizados conforme al estado final del proyecto en el momento de la entrega.
 
 1. Portada
     - Título del proyecto, indicando que es la memoria.
