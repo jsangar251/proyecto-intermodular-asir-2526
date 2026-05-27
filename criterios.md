@@ -112,7 +112,7 @@ Para la entrega final, deberá presentarse, a través del medio indicado por el 
 Posteriormente, en la fecha indicada, cada grupo deberá defender su proyecto ante un tribunal compuesto por el profesorado.
 
 ### Memoria
-La documentación deberá estar redactada a doble cara, utilizando fuente Times New Roman con tamaño 12 puntos o Calibri con tamaño 11 puntos, y un interlineado de 1,5 puntos.
+Deberá estar redactada a doble cara, utilizando fuente Times New Roman con tamaño 12 puntos o Calibri con tamaño 11 puntos, y un interlineado de 1,5 puntos.
 Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán provenir del anteproyecto realizado previamente, aunque deberán estar revisados y actualizados conforme al estado final del proyecto en el momento de la entrega.
 
 1. Portada
@@ -171,8 +171,8 @@ Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán pr
     - Fuentes de información que servirán de base para el desarrollo.
 
 ### Exposición
-Cada grupo tendrá que presentar obligatoriamente 20 minutos de duración máxima repartidos en:
-1. Vídeo de duración máxima entre 2 o 3 minutos
-2. Explicar
-3. Demo en directo de la aplicación
+Cada grupo deberá realizar obligatoriamente una defensa oral de su proyecto, con una duración máxima de 20 minutos, distribuida de la siguiente manera:
+- Explicación de las tecnologías utilizadas, de cómo se han abordado los requisitos de los diferentes módulos y de los principales problemas encontrados, así como de las soluciones adoptadas (7 minutos).
+- Demostración en directo de la aplicación (10 minutos).
+- Turno de preguntas por parte del tribunal (3 minutos).
 
