@@ -174,5 +174,5 @@ Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán pr
 Cada grupo deberá realizar obligatoriamente una defensa oral de su proyecto, con una duración máxima de 20 minutos, distribuida de la siguiente manera:
 - Explicación de las tecnologías utilizadas, de cómo se han abordado los requisitos de los diferentes módulos y de los principales problemas encontrados, así como de las soluciones adoptadas (7 minutos).
 - Demostración en directo de la aplicación (10 minutos).
-- Turno de preguntas por parte del tribunal (3 minutos).
+- Turno de preguntas por parte del tribunal, por lo que hay que tener previamente preparado el código fuente por si acaso (3 minutos).
 
