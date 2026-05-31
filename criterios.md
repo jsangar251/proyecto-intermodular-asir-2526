@@ -167,8 +167,8 @@ Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán pr
 
 13. Conclusiones 
 
-14. Bibliografía / referencias iniciales
-    - Fuentes de información que servirán de base para el desarrollo.
+14. Bibliografía
+    - Fuentes de información que se han consultado durante el desarrollo.
 
 15. Manual de usuario
     - Guía práctica que explica paso a paso cómo utilizar el producto creado.
