@@ -165,7 +165,7 @@ Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán pr
     - Proceso automatizado para subir, probar y actualizar el código en el servidor sin interrumpir el servicio (CI/CD).
     - Principales problemas encontrados durante el desarrollo y cómo se han resuelto.
 
-13 Conclusiones. 
+13. Conclusiones 
 
 14. Bibliografía / referencias iniciales
     - Fuentes de información que servirán de base para el desarrollo.
