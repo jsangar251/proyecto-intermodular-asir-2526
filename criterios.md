@@ -157,7 +157,7 @@ Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán pr
 11. Planificación
     - Cronograma o fases del trabajo.
 
-12. Desarrollo
+12. Producto final
     - Esquema E/R o relacional de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
     - Organización del código fuente (por ejemplo, MVC o Arquitectura Limpia) para separar la lógica, los datos y la interfaz.
     - Árbol de carpetas del repositorio que muestra dónde se guarda cada componente del sistema.
