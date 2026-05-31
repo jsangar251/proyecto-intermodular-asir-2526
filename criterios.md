@@ -138,37 +138,40 @@ Asimismo, deberá contener los siguientes apartados. Algunos de ellos podrán pr
     - Explicación de las soluciones, tecnologías o herramientas existentes actualmente que están relacionadas con tu proyecto (ej.: para un TFG de monitorización de redes podrías hablar de Zabbix, Nagios, Prometheus, etc.).
     - Aquí demuestras que conoces lo que ya existe y justificas que tu proyecto no es redundante o qué valor añadido tiene.
 
-
-
-
-4. Motivación personal y académica
-    - Por qué has elegido ese proyecto.
-    - Qué relación tiene con tu formación en ASIR y con lo aprendido en el ciclo.
-    - Si responde a una necesidad real (por ejemplo, mejorar la seguridad de una red, montar un sistema de copias de seguridad centralizado, automatizar     despliegues, etc.).
+7. Tecnologías utilizadas
+    - Listado con descripción de las tecnologías utilizadas.
     - Justificación de la elección de las tecnologías a usar (no poner que se usa porque se ha dado en clase).
+    - Recursos hardware y software necesarios.
 
+8. Relación con los módulos del ciclo
+    - Explicación de cómo habéis abordado y cumplido cada uno de los criterios establecidos en los diferentes módulos.
 
-6. Recursos hardware y software necesarios
+9. Metodología
+    - Cómo os habéis a organizado.
+    - Qué herramientas habéis usado para repartir el trabajo y revisar que todo funcione.
 
-7. Listado de requisitos
+10. Listado de requisitos
     - Requisitos funcionales.
     - Requisitos no funcionales.
 
-8. Diagrama de la base de datos
-    - Esquema E/R o relacional de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
-
-9. Planificación
-    - Metodología de desarrollo que se va a seguir a cabo.
+11. Planificación
     - Cronograma o fases del trabajo.
 
-10. Relación con los módulos del ciclo
-    - Explicación de cómo vuestro proyecto va a abordar y cumplir cada uno de los criterios establecidos en los diferentes módulos.
+12. Desarrollo
+    - Esquema E/R o relacional de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
+    - Organización del código fuente (por ejemplo, MVC o Arquitectura Limpia) para separar la lógica, los datos y la interfaz.
+    - Árbol de carpetas del repositorio que muestra dónde se guarda cada componente del sistema.
+    - Servidores o plataformas en la nube (Cloud/Hosting) donde reside la aplicación en producción.
+    - Proceso automatizado para subir, probar y actualizar el código en el servidor sin interrumpir el servicio (CI/CD).
+    - Principales problemas encontrados durante el desarrollo y cómo se han resuelto.
 
-11. Bibliografía / referencias iniciales
+13 Conclusiones. 
+
+14. Bibliografía / referencias iniciales
     - Fuentes de información que servirán de base para el desarrollo.
 
-1X. Manual de usuario
-    - Fuentes de información que servirán de base para el desarrollo.
+15. Manual de usuario
+    - Guía práctica que explica paso a paso cómo utilizar el producto creado.
 
 ### Exposición
 Cada grupo deberá realizar obligatoriamente una defensa oral de su proyecto, con una duración máxima de 20 minutos, distribuida de la siguiente manera:
