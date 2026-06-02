@@ -33,6 +33,7 @@ Cada grupo debe editar este fichero y hacer una pull request a este repositorio 
 | [RetroNexus](https://github.com/AdriFerz7a/TFG_RetroNexus)                        | Muñoz Amores, Antonio <br/> Luque Montero, Denis <br/> Fernández Pérez, Adrián <br/> Merchán Damir, Francisco |
 | [SysFly](https://github.com/abelcm214/SysFly)                                     | Camacho Martín, Abel <br/> Casermeiro González, Adrián   |
 | [Tricked-Dice](https://github.com/lucasio06/Tricked-Dice)                         | Moreno Navas, Lucas <br/> Sánchez Muñoz, Samuel Iván <br/> Segovia Cantero, Rubén Manuel <br/> Díaz Martín. Raúl |
+| [Aeolus Cloud](https://github.com/Blue-Drink/AEOLUS.git)                          | Ortiz Fuentes, Patricia <br/> Porras Vera, Pablo <br/> Ríos Reyes, Isaac  
 | [Nombre proyecto](https://github.com/nombreUsuario/nombreProyecto)                | Alumno 1 <br/> Alumno 2    |
 
 
