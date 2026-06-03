@@ -33,7 +33,7 @@ Se tendrán en cuenta los siguientes aspectos:
 |--------|----------------------------------------|
 | **Digitalización aplicada a los sectores productivos** | Evalúa la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema, como globales. |
 | **Fundamentos de hardware** | - Configura equipos microinformáticos, componentes y periféricos, analizando sus características y relación con el conjunto.<br>- Instala software de propósito general evaluando sus características y entornos de aplicación. |
-| **Gestión de bases de datos** | - Realizar diagrama E/R.<br>- Pasar el diagrama E/R a modelo relacional.<br>- Almacenamiento de datos en una base de datos, con al menos:<br> • Tres colecciones o tablas.<br> • Una relación de uno a muchos.<br> • Una relación de muchos a muchos. |
+| **Gestión de bases de datos** | - Realizar diagrama E/R o modelo relacional.<br>- Almacenamiento de datos en una base de datos, con al menos:<br> • Tres colecciones o tablas.<br> • Una relación de uno a muchos.<br> • Una relación de muchos a muchos. |
 | **Implantación de sistemas operativos** | Instala sistemas operativos, analizando sus características e interpretando la documentación técnica. |
 | **Lenguajes de marcas y sistemas de gestión de información** | Diseñar aplicaciones web del lado cliente con HTML, CSS y JavaScript. |
 | **Planificación y administración de redes** | Conecta redes privadas a redes públicas identificando y aplicando diferentes tecnologías. |
