@@ -28,6 +28,7 @@ Cada grupo debe editar este fichero y hacer una pull request a este repositorio 
 
 | Proyecto | Alumnos |
 |-----------------------------------------------------------------------------------| ---------------------------------------------------------|
+| [Aeolus](https://github.com/Blue-Drink/AEOLUS)                                    | Ríos Reyes, Isaac <br/> Porras Vera, Pablo José <br/> Ortiz Fuentes, Patricia |
 | [Didacta](https://github.com/algarro06/Didacta-2-ASIR)                            | Lomnasan, Alejandro Gabriel <br/> Ortigosa García, Iván <br/> García Rojas, Álvaro |
 | [Project Pokémon](https://github.com/Proyect-Pokemon/Project-Pokemon)             | González Jiménez, Jorge <br/> Cabello Rubio, Cristina <br/> Fuentes Triguero, Jesús |
 | [RetroNexus](https://github.com/AdriFerz7a/TFG_RetroNexus)                        | Muñoz Amores, Antonio <br/> Luque Montero, Denis <br/> Fernández Pérez, Adrián <br/> Merchán Damir, Francisco |
