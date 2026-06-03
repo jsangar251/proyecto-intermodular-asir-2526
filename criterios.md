@@ -19,7 +19,7 @@ Se tendrán en cuenta los siguientes aspectos:
     3. Nombre de los autores del proyecto.
     4. Descripción.
     5. Tecnologías utilizadas.
-    6. Esquema E/R de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
+    6. Esquema E/R o modelo relacional de la base de datos o en su caso información detallada sobre los documentos/colecciones en el caso de bases de datos no relacionales.
     7. Explicación paso a paso de cómo ejecutarlo localmente.
     8. Breve tutorial de uso de la aplicación con capturas de pantalla y/o material multimedia.
     9. URL donde se encuentre desplegada la aplicación.
