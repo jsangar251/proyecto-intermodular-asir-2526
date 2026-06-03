@@ -34,8 +34,10 @@ Cada grupo debe editar este fichero y hacer una pull request a este repositorio 
 | [RetroNexus](https://github.com/AdriFerz7a/TFG_RetroNexus)                        | Muñoz Amores, Antonio <br/> Luque Montero, Denis <br/> Fernández Pérez, Adrián <br/> Merchán Damir, Francisco |
 | [SysFly](https://github.com/abelcm214/SysFly)                                     | Camacho Martín, Abel <br/> Casermeiro González, Adrián   |
 | [Tricked-Dice](https://github.com/lucasio06/Tricked-Dice)                         | Moreno Navas, Lucas <br/> Sánchez Muñoz, Samuel Iván <br/> Segovia Cantero, Rubén Manuel <br/> Díaz Martín. Raúl |
-| [Nombre proyecto](https://github.com/nombreUsuario/nombreProyecto)                | Alumno 1 <br/> Alumno 2    |
-
+| [Nombre proyecto 1](https://github.com/nombreUsuario/nombreProyecto)              | González Verdugo, José Manuel <br/> Sandoval Rueda, Juan  |
+| [Nombre proyecto 2](https://github.com/nombreUsuario/nombreProyecto)              | Trujillo Jurca, Pedro <br/> Romero Morilla, Raquel        |
+| [Nombre proyecto 3](https://github.com/nombreUsuario/nombreProyecto)              | Cárdenas Palomo, Alberto Manuel <br/> Campaña Espejo, Juan Alberto   |
+| [Nombre proyecto 4](https://github.com/nombreUsuario/nombreProyecto)              | González Vázquez, Adrián <br/> Alascio Montiel, Ana Belén <br/> Ruiz Sánchez, Miguel  |
 
 ## Calendario período ordinario
 
